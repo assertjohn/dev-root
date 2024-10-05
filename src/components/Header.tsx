@@ -18,7 +18,7 @@ export default function Header() {
           <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">husaria.dev</h1>
         </div>
         <p className="text-lg text-gray-300/60 font-light max-w-4xl">
-          View all projects hosted on husaria.dev
+          Project directory
         </p>
       </div>
     </header>
