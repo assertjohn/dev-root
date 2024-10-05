@@ -7,7 +7,7 @@ export default function Header() {
       <div className="max-w-4xl mx-auto relative">
         <div className="absolute top-0 right-0">
           <Button variant="link" size="icon" asChild className="text-neutral-500 hover:text-neutral-400">
-            <a href={"my.github"} target="_blank" rel="noopener noreferrer" className="flex items-center">
+            <a href={"https://github.com/assertjohn"} target="_blank" rel="noopener noreferrer" className="flex items-center">
               <Github className="w-5 h-5" />
               <span className="sr-only">View GitHub</span>
             </a>
