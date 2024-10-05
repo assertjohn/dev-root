@@ -30,7 +30,7 @@ export interface Project {
     {
       name: "ASCII Web Engine",
       description: "Render .OBJ directly to ASCII.",
-      icon: "/images/awe.png?height=60&width=60",
+      icon: "/images/awe-logo.png?height=60&width=60",
       link: "https://awe.husaria.dev/",
       github: "https://github.com/assertjohn/ascii-web-engine"
     },
