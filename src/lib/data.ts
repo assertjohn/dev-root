@@ -9,7 +9,7 @@ export interface Project {
   export const projects: Project[] = [
     {
       name: "holopage",
-      description: "Nocode VR website builder",
+      description: "Nocode VR website builder.",
       icon: "/images/holo-logo.png?height=60&width=60",
       link: "https://holopage.app",
     },
