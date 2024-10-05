@@ -16,7 +16,7 @@ export interface Project {
     },
     {
       name: "I Ching",
-      description: "Perform I Ching divinations online",
+      description: "Perform I Ching divinations online.",
       icon: "/images/coins.png?height=60&width=60",
       link: "https://iching.husaria.dev/",
       github: "https://github.com/assertjohn/iching"
