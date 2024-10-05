@@ -1,7 +1,6 @@
 import { Card, CardDescription, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Github, ExternalLink } from "lucide-react"
-import Image from "next/image"
 import { projects } from "@/lib/data"
 
 export default function ProjectList() {
@@ -12,7 +11,7 @@ export default function ProjectList() {
           <div className="flex-1 p-6 flex flex-col sm:flex-row items-start sm:items-center gap-4">
             <div className="flex-shrink-0">
               <div className="w-15 h-15">
-                <Image
+                <img
                   src={project.icon}
                   alt={`${project.name} icon`}
                   width={60}
